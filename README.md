@@ -1,6 +1,6 @@
 # MNIST Digit Classifier
 
-## Project Overview
+## Overview
 
 This project implements a handwritten digit recognition system using the MNIST dataset. The dataset contains 70,000 grayscale images of handwritten digits (0 to 9), each sized 28x28 pixels.
 
