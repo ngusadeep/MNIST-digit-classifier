@@ -1,1 +1,1 @@
-# handwitten-digit-recognition
+MNIST Digit Classifier
