@@ -1,7 +1,7 @@
-**Neural Network MNIST classifier**
+## **MNIST classifier with Neural Networks**
 
 
-## Overview
+### Overview
 
 This project implements a **handwritten digit recognition system** using the MNIST dataset and a **Neural Network** built with **TensorFlow/Keras**.
 
