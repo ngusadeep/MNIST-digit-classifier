@@ -1,4 +1,4 @@
-Here’s your **Overview** section rewritten so it’s for a **Neural Network MNIST classifier** instead of SGD:
+**Neural Network MNIST classifier**
 
 
 ## Overview
